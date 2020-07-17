@@ -1,5 +1,5 @@
 {
-  "homepage": "http://https://abdullahmohammadkhan.github.io/quiz-app-1/",
+  "homepage": "http://https://AbdullahMohammadKhan.github.io/quiz-app-1",
   "name": "quizbee",
   "version": "0.1.0",
   "private": true,
@@ -12,10 +12,9 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
