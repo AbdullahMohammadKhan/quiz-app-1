@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//abdullahmohammadkhan.github.io/quiz-app-1/static/css/main.eb4503ed.chunk.css",
+    "main.js": "//abdullahmohammadkhan.github.io/quiz-app-1/static/js/main.f990bccb.chunk.js",
+    "main.js.map": "//abdullahmohammadkhan.github.io/quiz-app-1/static/js/main.f990bccb.chunk.js.map",
+    "runtime-main.js": "//abdullahmohammadkhan.github.io/quiz-app-1/static/js/runtime-main.945355df.js",
+    "runtime-main.js.map": "//abdullahmohammadkhan.github.io/quiz-app-1/static/js/runtime-main.945355df.js.map",
+    "static/js/2.62210710.chunk.js": "//abdullahmohammadkhan.github.io/quiz-app-1/static/js/2.62210710.chunk.js",
+    "static/js/2.62210710.chunk.js.map": "//abdullahmohammadkhan.github.io/quiz-app-1/static/js/2.62210710.chunk.js.map",
+    "index.html": "//abdullahmohammadkhan.github.io/quiz-app-1/index.html",
+    "precache-manifest.466323ff25204df9b66cea3cb2074df9.js": "//abdullahmohammadkhan.github.io/quiz-app-1/precache-manifest.466323ff25204df9b66cea3cb2074df9.js",
+    "service-worker.js": "//abdullahmohammadkhan.github.io/quiz-app-1/service-worker.js",
+    "static/css/main.eb4503ed.chunk.css.map": "//abdullahmohammadkhan.github.io/quiz-app-1/static/css/main.eb4503ed.chunk.css.map",
+    "static/js/2.62210710.chunk.js.LICENSE.txt": "//abdullahmohammadkhan.github.io/quiz-app-1/static/js/2.62210710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.945355df.js",
+    "static/js/2.62210710.chunk.js",
+    "static/css/main.eb4503ed.chunk.css",
+    "static/js/main.f990bccb.chunk.js"
+  ]
+}
